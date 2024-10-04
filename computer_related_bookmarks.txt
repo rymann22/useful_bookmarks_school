@@ -16,8 +16,26 @@ Database (Postgres/SQL) | D326
 - Trigger statements 1: https://www.postgresqltutorial.com/postgresql-triggers/creating-first-trigger-postgresql/
 - Trigger statements 2: https://www.enterprisedb.com/postgres-tutorials/everything-you-need-know-about-postgresql-triggers
 - Data types: https://www.geeksforgeeks.org/postgresql-data-types/
+- Task submission example: https://www.youtube.com/watch?v=7BPcDvXh_fo
 
+Linux / Bash
+- My "beginner cheat sheet": https://ryansbookmarks.wordpress.com/work-in-progress-linux-commands/
+- vim cheat sheet (they have a lot of good ones): https://devhints.io/vim
+- vim script cheat sheet: https://devhints.io/vimscript
+- Bash - Count Characters in String: https://collectingwisdom.com/bash-count-characters-in-string/
+- Bash Manual: Shell Parameter Expansion: https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html#Shell-Parameter-Expansion
+- Vim Cheat Sheet: https://vim.rtorr.com/
+- The Valuable Developer - Advanced Vim: https://thevaluable.dev/vim-advanced/
+- The Valuable Developer - Vim Search, Find, and Replace: https://thevaluable.dev/vim-search-find-replace/
+- Vim Macro Trickz: https://www.hillelwayne.com/post/vim-macro-trickz/
+- Grep for Range of Numbers: https://unix.stackexchange.com/questions/120831/grep-for-range-of-numbers
+- Grep, Sed, Awk: Month Range: https://unix.stackexchange.com/questions/183574/grep-sed-awk-month-range?rq=1
+- Vim Spell Check: https://vimtricks.com/p/vim-spell-check/
+- Command to Move a File to a Directory Even if the Directory is Not Present: https://askubuntu.com/questions/1268761/command-to-move-a-file-to-a-directory-even-if-the-directory-is-not-present
+- Rsync Command in Linux with Examples: https://www.geeksforgeeks.org/rsync-command-in-linux-with-examples/
+- Inodes and the Linux filesystem:  https://redhat.com/sysadmin/inodes-linux-filesystem
 
 Note Taking / Markdown
 - Markdown Syntax / Cheat Sheet: https://www.markdownguide.org/cheat-sheet/
 - Markdown examples: https://www.freecodecamp.org/news/markdown-cheat-sheet/
+
