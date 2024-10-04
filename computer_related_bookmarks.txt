@@ -1,0 +1,15 @@
+Java | D286
+- Java Online Compiler: https://onecompiler.com/java
+- Java Syntax: https://onecompiler.com/java/wiki
+- Concat Int Values: https://stackoverflow.com/questions/2674707/how-to-concatenate-int-values-in-java
+- Convert string to int: https://stackoverflow.com/questions/5585779/how-do-i-convert-a-string-to-an-int-in-java
+- Variable Types: https://www.w3schools.com/java/java_variables.asp
+- Get int from input and print output: https://www.geeksforgeeks.org/how-to-read-and-print-an-integer-value-in-java/
+- Scanner input types: https://www.geeksforgeeks.org/scanner-class-in-java/
+- Scanner (update): https://www.tutorialspoint.com/java/util/scanner_next.htm
+
+
+
+Note Taking / Markdown
+- Markdown Syntax / Cheat Sheet: https://www.markdownguide.org/cheat-sheet/
+- Markdown examples: https://www.freecodecamp.org/news/markdown-cheat-sheet/
