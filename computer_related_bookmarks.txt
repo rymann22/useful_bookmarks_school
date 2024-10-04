@@ -8,6 +8,14 @@ Java | D286
 - Scanner input types: https://www.geeksforgeeks.org/scanner-class-in-java/
 - Scanner (update): https://www.tutorialspoint.com/java/util/scanner_next.htm
 
+Database (Postgres/SQL) | D326
+- DVD Rental Examples 1: https://medium.com/@joedevinbox/answering-business-questions-from-the-dvd-rental-database-using-sql-2a9e8c1c6849
+- DVD Rental Examples 2: https://www.freecodecamp.org/news/project-1-analyzing-dvd-rentals-with-sql-fd12dd674a64/
+- Stored procedures 1: https://www.geeksforgeeks.org/postgresql-introduction-to-stored-procedures/
+- Stored procedures 2: https://www.pluralsight.com/resources/blog/guides/using-stored-procedures-to-create-custom-workflows-in-postgresql
+- Trigger statements 1: https://www.postgresqltutorial.com/postgresql-triggers/creating-first-trigger-postgresql/
+- Trigger statements 2: https://www.enterprisedb.com/postgres-tutorials/everything-you-need-know-about-postgresql-triggers
+- Data types: https://www.geeksforgeeks.org/postgresql-data-types/
 
 
 Note Taking / Markdown
